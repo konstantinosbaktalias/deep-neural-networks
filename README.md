@@ -1,4 +1,5 @@
 # neuralnetwork-from-scratch
+<img src="https://obscure-refuge-59682.herokuapp.com/static/images-1610053251479.png">
 This is an implementation of an artificial neural network using only NumPy. You can adjust the parameters to your preferences, 
 train the model, forward propagate, and save or load the parameters(weights, biases). There are two demonstrations included; 
 1. Digit classification using the <a href="http://yann.lecun.com/exdb/mnist/">MNIST Handwritten Digits Dataset</a>. 

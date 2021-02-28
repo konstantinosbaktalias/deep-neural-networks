@@ -1,16 +1,7 @@
-# neuralnetwork-from-scratch
-<img src="https://obscure-refuge-59682.herokuapp.com/static/images-1610053251479.png">
-This is an implementation of an artificial neural network using only NumPy. You can adjust the parameters to your preferences, 
-train the model, forward propagate, and save or load the parameters(weights, biases). There are two demonstrations included; 
-1. Digit classification using the <a href="http://yann.lecun.com/exdb/mnist/">MNIST Handwritten Digits Dataset</a>. 
-2. Flower classification using the <a href="https://archive.ics.uci.edu/ml/datasets/iris">IRIS Dataset</a>. 
+# deep-neaural-networks
+<img src="https://res.cloudinary.com/du2dgpdyq/image/upload/v1614541333/deepneuralnetworks_xx6qmw.png">
+This a deep neural network constructor, written in purely Numpy. Create your own neural networks with your own suited parameters. There are also 2 demonstrations included:
 
-Great resources:
-* https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi
+- MNIST Handwritten Digits Recognition
+- Iris Flowers Classification
 
-* https://en.wikipedia.org/wiki/Artificial_neural_network 
-* https://en.wikipedia.org/wiki/Feedforward_neural_network
-* https://en.wikipedia.org/wiki/Sigmoid_function
-* https://en.wikipedia.org/wiki/Backpropagation
-
-* http://neuralnetworksanddeeplearning.com/
